@@ -8,6 +8,9 @@ public class HomePageTest {
 		System.out.println("Test 1- HP-updated2");
 		System.out.println("Test 1- HP-updated3");
 		System.out.println("Test 1- HP-updated3");
+		System.out.println("Test 1- HP-updated3");
+		System.out.println("Test 1- HP-updated3");
+		System.out.println("Test 1- HP-updated3");
 	}
 
 }
