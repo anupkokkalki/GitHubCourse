@@ -4,7 +4,7 @@ public class HomePage {
 
 	public static void main(String a[])
 	{
-		System.out.println("Hello HP-1");
+		System.out.println("Hello HP-12");
 	}
 
 }
