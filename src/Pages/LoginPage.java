@@ -4,6 +4,6 @@ public class LoginPage {
 
 	public static void main(String a[])
 	{
-		System.out.println("Hello LG");
+		System.out.println("Hello LG-1");
 	}
 }
