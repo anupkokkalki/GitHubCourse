@@ -6,6 +6,7 @@ public class Bye {
 		// TODO Auto-generated method stub
 
 		System.out.println("Working Fine");
+		System.out.println("Working Fine");
 
 	}
 
