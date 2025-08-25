@@ -11,6 +11,7 @@ public class Bye {
 			
 		featured();
 added this line on new feature branch();
+mastered();
 
 	}
 
